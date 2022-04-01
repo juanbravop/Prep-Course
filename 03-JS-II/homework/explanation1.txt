@@ -1,0 +1,15 @@
+1. for
+
+Si quiero llenar un recipiente con agua, para no decirte "dame un vaso con agua" muchas veces hasta que se llene el recipiente, te digo que no pares de traerme agua hasta que yo diga "basta". De esa manera solo tengo que hablar una vez sin importar cuantos vasos hagan falta.
+
+2. &&
+
+Si quiero hacer una pizza necesito masa, salsa y queso. Si falta cualquiera de los ingredientes no podría hacer la pizza.
+
+3. ||
+
+Si voy a salir necesito usar unos zapatos, te pido que me traigas los zapatos negros o los zapatos blancos, con que me traigas cualquiera de los dos voy a poder salir.
+
+4. !
+
+Sirve para negar algo, si te digo el cielo es azul la respuesta es verdadero, pero al tener un ! Adelante lo convertiría a falso. De igual manera al decir los cerdos pueden volar, que es falso, al tener ! Adelante la respuesta sería que es verdadero.
